@@ -109,7 +109,7 @@ $(document).ready(function(){
   			return false;
   		}
   		else if (guessDifference <= 5) {
-  			setFeedback("This is the hottest you can get!");
+  			setFeedback("You're hotter than a bonfire! so close. Keep going. Almost...There..!");
   			return true;
   		}
   		else if (guessDifference <= 10) {

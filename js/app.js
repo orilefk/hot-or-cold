@@ -57,7 +57,7 @@ $(document).ready(function(){
   		setCount(guessCount);
   		randomNumber = generateNumber();
   		setFocus();
-  		clearText;
+  		clearText();
   	}
   	/* Generate Random Number */
   	function generateNumber() {
